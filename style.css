@@ -1,0 +1,26 @@
+ p {font-style: italic
+   f  font-family: Arial, sans-serif;
+    font-size: 17px;
+
+h3 {
+  font-style: bold;
+ 
+}
+
+.author-class {
+  color: pink;
+}
+
+#author-id {
+  color: black;
+}
+
+h2.destination {
+  font-family: Tahoma;
+}
+
+.description h5 {
+  color: black;
+}
+
+
